@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransRotateBitmap", "TransRotateBitmap\TransRotateBitmap.csproj", "{A1B893FA-8B33-466F-B27C-0D30987F128F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "transrotate_test", "transrotate_test\transrotate_test.csproj", "{3DBB1DB7-2037-4BC8-ACCB-BC0556CFF190}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1B893FA-8B33-466F-B27C-0D30987F128F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1B893FA-8B33-466F-B27C-0D30987F128F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1B893FA-8B33-466F-B27C-0D30987F128F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1B893FA-8B33-466F-B27C-0D30987F128F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DBB1DB7-2037-4BC8-ACCB-BC0556CFF190}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DBB1DB7-2037-4BC8-ACCB-BC0556CFF190}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DBB1DB7-2037-4BC8-ACCB-BC0556CFF190}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DBB1DB7-2037-4BC8-ACCB-BC0556CFF190}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF6C3C8A-20AF-46BA-BC14-D50B5C6C5704}
+	EndGlobalSection
+EndGlobal
